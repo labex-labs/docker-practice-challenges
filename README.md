@@ -49,13 +49,13 @@ This course contains lots of challenges for Docker, each challenge is a small Do
 |      36 | 🎯 Container Lifecycle Management             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7767'>Start Challenge</a>   |
 |      37 | 🎯 Single Host Container Interconnection      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18452'>Start Challenge</a>  |
 |      38 | 🎯 Access and Manage Containers               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18466'>Start Challenge</a>  |
-|      39 | 🎯 Docker Multi-stage Build                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15810'>Start Challenge</a>  |
+|      39 | 🎯 Docker Multi-stage Build Challenge         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15810'>Start Challenge</a>  |
 |      40 | 🎯 Deploying Jenkins Application              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18264'>Start Challenge</a>  |
 |      41 | 🎯 Manage Data in Containers                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15896'>Start Challenge</a>  |
 |      42 | 🎯 Deploy Containerized Applications          | ★★☆          | <a target='_blank' href='https://labex.io/labs/16240'>Start Challenge</a>  |
 |      43 | 🎯 Deploying Local Docker Registry            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17804'>Start Challenge</a>  |
 |      44 | 🎯 Docker Lifecycle Management                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16232'>Start Challenge</a>  |
-|      45 | 🎯 Docker Image And Registry                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7768'>Start Challenge</a>   |
+|      45 | 🎯 Docker Image and Registry                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7768'>Start Challenge</a>   |
 |      46 | 🎯 Connect Containers with Link               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49351'>Start Challenge</a>  |
 
 ## More
