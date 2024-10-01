@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                     | Difficulty   | Practice                                                                                                                    |
-|---------|------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                    | Difficulty   | Practice                                                                                                                    |
+|---------|-----------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 Connect Containers with Link          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-connect-containers-with-link-49351'>Start Challenge</a>          |
 |      02 | 🎯 Connect to Running Container          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-connect-to-running-container-15812'>Start Challenge</a>          |
 |      03 | 🎯 Container Lifecycle Management        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-container-lifecycle-management-7767'>Start Challenge</a>         |
