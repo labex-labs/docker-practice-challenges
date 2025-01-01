@@ -25,27 +25,27 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                    | Difficulty   | Practice                                                                                                                    |
-|---------|-----------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 Connect Containers with Link          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-connect-containers-with-link-49351'>Start Challenge</a>          |
-|      02 | 🎯 Connect to Running Container          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-connect-to-running-container-15812'>Start Challenge</a>          |
-|      03 | 🎯 Container Lifecycle Management        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-container-lifecycle-management-7767'>Start Challenge</a>         |
-|      04 | 🎯 Deploy Containerized Applications     | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/docker-deploy-containerized-applications-16240'>Start Challenge</a>     |
-|      05 | 🎯 Deploying Jenkins Application         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-deploying-jenkins-application-18264'>Start Challenge</a>         |
-|      06 | 🎯 Deploying Local Docker Registry       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-deploying-local-docker-registry-17804'>Start Challenge</a>       |
-|      07 | 🎯 Docker Create Command                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-create-command-15817'>Start Challenge</a>                 |
-|      08 | 🎯 Docker Image and Registry             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-image-and-registry-7768'>Start Challenge</a>              |
-|      09 | 🎯 Docker Lifecycle Management           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-lifecycle-management-16232'>Start Challenge</a>           |
-|      10 | 🎯 Docker Multi-stage Build Challenge    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-multi-stage-build-challenge-15810'>Start Challenge</a>    |
-|      11 | 🎯 Docker Network with Compose           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-network-with-compose-15003'>Start Challenge</a>           |
-|      12 | 🎯 Docker Search Command                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-search-command-16016'>Start Challenge</a>                 |
-|      13 | 🎯 Setting Up Docker Swarm Cluster       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-setting-up-docker-swarm-cluster-22289'>Start Challenge</a>       |
-|      14 | 🎯 Docker Volume Management              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-docker-volume-management-7769'>Start Challenge</a>               |
-|      15 | 🎯 File Copy for Containers              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-file-copy-for-containers-15813'>Start Challenge</a>              |
-|      16 | 🎯 Manage Data in Containers             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-manage-data-in-containers-15896'>Start Challenge</a>             |
-|      17 | 🎯 Map the Container Ports               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-map-the-container-ports-16309'>Start Challenge</a>               |
-|      18 | 🎯 Package and Run Applications          | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/docker-package-and-run-applications-16242'>Start Challenge</a>          |
-|      19 | 🎯 Single Host Container Interconnection | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-single-host-container-interconnection-18452'>Start Challenge</a> |
+|   Index | Name                                    | Difficulty   | Practice                                                                                                               |
+|---------|-----------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 Connect Containers with Link          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-connect-containers-with-link-49351'>Start Challenge</a>          |
+|      02 | 🎯 Connect to Running Container          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-connect-to-running-container-15812'>Start Challenge</a>          |
+|      03 | 🎯 Container Lifecycle Management        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-container-lifecycle-management-7767'>Start Challenge</a>         |
+|      04 | 🎯 Deploy Containerized Applications     | ★★☆          | <a target='_blank' href='https://labex.io/labs/docker-deploy-containerized-applications-16240'>Start Challenge</a>     |
+|      05 | 🎯 Deploying Jenkins Application         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-deploying-jenkins-application-18264'>Start Challenge</a>         |
+|      06 | 🎯 Deploying Local Docker Registry       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-deploying-local-docker-registry-17804'>Start Challenge</a>       |
+|      07 | 🎯 Docker Create Command                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-docker-create-command-15817'>Start Challenge</a>                 |
+|      08 | 🎯 Docker Image and Registry             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-docker-image-and-registry-7768'>Start Challenge</a>              |
+|      09 | 🎯 Docker Lifecycle Management           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-docker-lifecycle-management-16232'>Start Challenge</a>           |
+|      10 | 🎯 Docker Multi-stage Build Challenge    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-docker-multi-stage-build-challenge-15810'>Start Challenge</a>    |
+|      11 | 🎯 Docker Network with Compose           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-docker-network-with-compose-15003'>Start Challenge</a>           |
+|      12 | 🎯 Docker Search Command                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-docker-search-command-16016'>Start Challenge</a>                 |
+|      13 | 🎯 Setting Up Docker Swarm Cluster       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-setting-up-docker-swarm-cluster-22289'>Start Challenge</a>       |
+|      14 | 🎯 Docker Volume Management              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-docker-volume-management-7769'>Start Challenge</a>               |
+|      15 | 🎯 File Copy for Containers              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-file-copy-for-containers-15813'>Start Challenge</a>              |
+|      16 | 🎯 Manage Data in Containers             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-manage-data-in-containers-15896'>Start Challenge</a>             |
+|      17 | 🎯 Map the Container Ports               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-map-the-container-ports-16309'>Start Challenge</a>               |
+|      18 | 🎯 Package and Run Applications          | ★★☆          | <a target='_blank' href='https://labex.io/labs/docker-package-and-run-applications-16242'>Start Challenge</a>          |
+|      19 | 🎯 Single Host Container Interconnection | ★☆☆          | <a target='_blank' href='https://labex.io/labs/docker-single-host-container-interconnection-18452'>Start Challenge</a> |
 
 ## More
 
