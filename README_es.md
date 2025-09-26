@@ -15,26 +15,26 @@ Este curso contiene muchos desafíos para Docker. Cada desafío es un pequeño p
 
 ## Ejercicios
 
-|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                  |
-|----------|-------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 🔵 Conectar contenedores con enlace                      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-connect-containers-with-link-49351'>Iniciar Desafío</a>     |
-|       02 | 🎯 🔵 Conectarse a un contenedor en ejecución               | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-connect-to-running-container-15812'>Iniciar Desafío</a>          |
-|       03 | 🎯 🔵 Gestión del ciclo de vida de los contenedores         | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-container-lifecycle-management-7767'>Iniciar Desafío</a>         |
-|       04 | 🎯 🔵 Desplegar aplicaciones empaquetadas en contenedore... | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-deploy-containerized-applications-16240'>Iniciar Desafío</a>     |
-|       05 | 🎯 🔵 Implementación de la aplicación Jenkins               | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-deploying-jenkins-application-18264'>Iniciar Desafío</a>         |
-|       06 | 🎯 🔵 Implementación del registro de Docker local           | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-deploying-local-docker-registry-17804'>Iniciar Desafío</a>       |
-|       07 | 🎯 🔵 Comando docker create                                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-docker-create-command-15817'>Iniciar Desafío</a>            |
-|       08 | 🎯 🔵 Gestión del ciclo de vida de Docker                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-docker-lifecycle-management-16232'>Iniciar Desafío</a>           |
-|       09 | 🎯 🔵 Desafío de Construcción Multietapa de Docker          | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-docker-multi-stage-build-challenge-15810'>Iniciar Desafío</a>    |
-|       10 | 🎯 🔵 Red de Docker con Compose                             | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-docker-network-with-compose-15003'>Iniciar Desafío</a>           |
-|       11 | 🎯 🔵 Comando docker search                                 | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-docker-search-command-16016'>Iniciar Desafío</a>                 |
-|       12 | 🎯 🔵 Configuración del clúster Docker Swarm                | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-setting-up-docker-swarm-cluster-22289'>Iniciar Desafío</a>       |
-|       13 | 🎯 🔵 Administración de volúmenes de Docker                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-docker-volume-management-7769'>Iniciar Desafío</a>          |
-|       14 | 🎯 🔵 Copiar archivos para contenedores                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-file-copy-for-containers-15813'>Iniciar Desafío</a>              |
-|       15 | 🎯 🔵 Administrar datos en contenedores                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-manage-data-in-containers-15896'>Iniciar Desafío</a>        |
-|       16 | 🎯 🔵 Asignar los puertos del contenedor                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-map-the-container-ports-16309'>Iniciar Desafío</a>               |
-|       17 | 🎯 🔵 Empaquetar y ejecutar aplicaciones                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-package-and-run-applications-16242'>Iniciar Desafío</a>          |
-|       18 | 🎯 🔵 Interconexión de Contenedores en un Solo Host         | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-single-host-container-interconnection-18452'>Iniciar Desafío</a> |
+|   Índice | Nombre                                                    | Dificultad   | Práctica                                                                                                                    |
+|----------|-----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯  Conectar contenedores con enlace                      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-connect-containers-with-link-49351'>Iniciar Desafío</a>       |
+|       02 | 🎯  Conectarse a un contenedor en ejecución               | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-connect-to-running-container-15812'>Iniciar Desafío</a>            |
+|       03 | 🎯  Gestión del ciclo de vida de los contenedores         | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-container-lifecycle-management-7767'>Iniciar Desafío</a>           |
+|       04 | 🎯  Desplegar aplicaciones empaquetadas en contenedore... | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-deploy-containerized-applications-16240'>Iniciar Desafío</a>       |
+|       05 | 🎯  Implementación de la aplicación Jenkins               | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-deploying-jenkins-application-18264'>Iniciar Desafío</a>           |
+|       06 | 🎯  Despliegue de un Registro de Docker Local             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-deploying-local-docker-registry-17804'>Iniciar Desafío</a>    |
+|       07 | 🎯  Comando docker create                                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-docker-create-command-15817'>Iniciar Desafío</a>              |
+|       08 | 🎯  Gestión del ciclo de vida de Docker                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-docker-lifecycle-management-16232'>Iniciar Desafío</a>             |
+|       09 | 🎯  Desafío de Construcción Multietapa de Docker          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-docker-multi-stage-build-challenge-15810'>Iniciar Desafío</a> |
+|       10 | 🎯  Red de Docker con Compose                             | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-docker-network-with-compose-15003'>Iniciar Desafío</a>             |
+|       11 | 🎯  Comando docker search                                 | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-docker-search-command-16016'>Iniciar Desafío</a>                   |
+|       12 | 🎯  Configuración del clúster Docker Swarm                | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-setting-up-docker-swarm-cluster-22289'>Iniciar Desafío</a>         |
+|       13 | 🎯  Administración de volúmenes de Docker                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-docker-volume-management-7769'>Iniciar Desafío</a>            |
+|       14 | 🎯  Copiar archivos para contenedores                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-file-copy-for-containers-15813'>Iniciar Desafío</a>                |
+|       15 | 🎯  Administrar datos en contenedores                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/docker-manage-data-in-containers-15896'>Iniciar Desafío</a>          |
+|       16 | 🎯  Asignar los puertos del contenedor                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-map-the-container-ports-16309'>Iniciar Desafío</a>                 |
+|       17 | 🎯  Empaquetar y ejecutar aplicaciones                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-package-and-run-applications-16242'>Iniciar Desafío</a>            |
+|       18 | 🎯  Interconexión de Contenedores en un Solo Host         | Principiante | <a target='_blank' href='https://labex.io/es/labs/docker-single-host-container-interconnection-18452'>Iniciar Desafío</a>   |
 
 ## Entorno
 
