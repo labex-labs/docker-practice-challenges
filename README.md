@@ -1,39 +1,73 @@
-# Docker Practice Challenges
+# Practice Docker Challenges
 
-**Languages:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 <p align="center">
-  <a href="https://labex.io/courses/docker-practice-challenges">
-    <img src="https://course-cover.labex.io/docker-practice-challenges.png" alt="Docker Practice Challenges">
+  <a href="https://labex.io/learn/docker">
+    <img width="128" src="https://file.labex.io/upload/u/1991/CZyNbFWl34sz.png" alt="Docker">
   </a>
 </p>
 
-This course contains lots of challenges for Docker, each challenge is a small Docker project with detailed instructions and solutions. You can practice your Docker skills by solving these challenges, improve your problem-solving skills, and learn how to write clean and efficient code.
+Learn Docker with this comprehensive learning path designed for beginners. These hands-on Docker courses provide a systematic way to master containerization, from creation and management to orchestration. Ideal for those new to DevOps, this roadmap features practical exercises in an interactive Docker playground, helping develop real-world skills for containerizing and deploying applications.
 
-[Start Course on LabEx](https://labex.io/courses/docker-practice-challenges)
+[Start Challenges on LabEx](https://labex.io/learn/docker)
 
-## Exercises
+Browse up to 50 focused Docker challenges from LabEx. Each challenge opens in an interactive environment so you can build skills through targeted practice.
 
-|   Index | Name                                  | Difficulty   | Practice                                                                                                                                                 |
-|---------|---------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | Connect Containers with Link          | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-connect-containers-with-link-49351?course=docker-practice-challenges'>Start Challenge</a>          |
-|      02 | Connect to Running Container          | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-connect-to-running-container-15812?course=docker-practice-challenges'>Start Challenge</a>          |
-|      03 | Container Lifecycle Management        | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-container-lifecycle-management-7767?course=docker-practice-challenges'>Start Challenge</a>         |
-|      04 | Deploy Containerized Applications     | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-deploy-containerized-applications-16240?course=docker-practice-challenges'>Start Challenge</a>     |
-|      05 | Deploying Jenkins Application         | Advanced     | <a target='_blank' href='https://labex.io/labs/docker-deploying-jenkins-application-18264?course=docker-practice-challenges'>Start Challenge</a>         |
-|      06 | Deploying Local Docker Registry       | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-deploying-local-docker-registry-17804?course=docker-practice-challenges'>Start Challenge</a>       |
-|      07 | Docker Create Command                 | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-docker-create-command-15817?course=docker-practice-challenges'>Start Challenge</a>                 |
-|      08 | Docker Lifecycle Management           | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-docker-lifecycle-management-16232?course=docker-practice-challenges'>Start Challenge</a>           |
-|      09 | Docker Multi-stage Build Challenge    | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-docker-multi-stage-build-15810?course=docker-practice-challenges'>Start Challenge</a>              |
-|      10 | Docker Network with Compose           | Beginner     | <a target='_blank' href='https://labex.io/labs/docker-docker-network-with-compose-15003?course=docker-practice-challenges'>Start Challenge</a>           |
-|      11 | Docker Search Command                 | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-docker-search-command-16016?course=docker-practice-challenges'>Start Challenge</a>                 |
-|      12 | Setting Up Docker Swarm Cluster       | Advanced     | <a target='_blank' href='https://labex.io/labs/docker-setting-up-docker-swarm-cluster-22289?course=docker-practice-challenges'>Start Challenge</a>       |
-|      13 | Docker Volume Management              | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-docker-volume-management-7769?course=docker-practice-challenges'>Start Challenge</a>               |
-|      14 | File Copy for Containers              | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-file-copy-for-containers-15813?course=docker-practice-challenges'>Start Challenge</a>              |
-|      15 | Manage Data in Containers             | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-manage-data-in-containers-15896?course=docker-practice-challenges'>Start Challenge</a>             |
-|      16 | Map the Container Ports               | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-map-the-container-ports-16309?course=docker-practice-challenges'>Start Challenge</a>               |
-|      17 | Package and Run Applications          | Intermediate | <a target='_blank' href='https://labex.io/labs/docker-package-and-run-applications-16242?course=docker-practice-challenges'>Start Challenge</a>          |
-|      18 | Single Host Container Interconnection | Advanced     | <a target='_blank' href='https://labex.io/labs/docker-single-host-container-interconnection-18452?course=docker-practice-challenges'>Start Challenge</a> |
+|   Index | Name                                                                                                                        | Difficulty   | Practice                                                                                         |
+|---------|-----------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------|
+|      01 | [Map the Container Ports](https://labex.io/labs/docker-map-the-container-ports-16309)                                       | Intermediate | [Start Challenge](https://labex.io/labs/docker-map-the-container-ports-16309)                    |
+|      02 | [Connect Containers with Link](https://labex.io/labs/docker-connect-containers-with-link-49351)                             | Intermediate | [Start Challenge](https://labex.io/labs/docker-connect-containers-with-link-49351)               |
+|      03 | [Setting Up Docker Swarm Cluster](https://labex.io/labs/docker-setting-up-docker-swarm-cluster-22289)                       | Advanced     | [Start Challenge](https://labex.io/labs/docker-setting-up-docker-swarm-cluster-22289)            |
+|      04 | [Single Host Container Interconnection](https://labex.io/labs/docker-single-host-container-interconnection-18452)           | Advanced     | [Start Challenge](https://labex.io/labs/docker-single-host-container-interconnection-18452)      |
+|      05 | [Deploying Jenkins Application](https://labex.io/labs/docker-deploying-jenkins-application-18264)                           | Advanced     | [Start Challenge](https://labex.io/labs/docker-deploying-jenkins-application-18264)              |
+|      06 | [Deploying Local Docker Registry](https://labex.io/labs/docker-deploying-local-docker-registry-17804)                       | Intermediate | [Start Challenge](https://labex.io/labs/docker-deploying-local-docker-registry-17804)            |
+|      07 | [Container Lifecycle Management](https://labex.io/labs/docker-container-lifecycle-management-7767)                          | Intermediate | [Start Challenge](https://labex.io/labs/docker-container-lifecycle-management-7767)              |
+|      08 | [Package and Run Applications](https://labex.io/labs/docker-package-and-run-applications-16242)                             | Intermediate | [Start Challenge](https://labex.io/labs/docker-package-and-run-applications-16242)               |
+|      09 | [Deploy Containerized Applications](https://labex.io/labs/docker-deploy-containerized-applications-16240)                   | Intermediate | [Start Challenge](https://labex.io/labs/docker-deploy-containerized-applications-16240)          |
+|      10 | [Docker Lifecycle Management](https://labex.io/labs/docker-docker-lifecycle-management-16232)                               | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-lifecycle-management-16232)                |
+|      11 | [Docker Search Command](https://labex.io/labs/docker-docker-search-command-16016)                                           | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-search-command-16016)                      |
+|      12 | [Manage Data in Containers](https://labex.io/labs/docker-manage-data-in-containers-15896)                                   | Intermediate | [Start Challenge](https://labex.io/labs/docker-manage-data-in-containers-15896)                  |
+|      13 | [Docker Create Command](https://labex.io/labs/docker-docker-create-command-15817)                                           | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-create-command-15817)                      |
+|      14 | [File Copy for Containers](https://labex.io/labs/docker-file-copy-for-containers-15813)                                     | Intermediate | [Start Challenge](https://labex.io/labs/docker-file-copy-for-containers-15813)                   |
+|      15 | [Connect to Running Container](https://labex.io/labs/docker-connect-to-running-container-15812)                             | Intermediate | [Start Challenge](https://labex.io/labs/docker-connect-to-running-container-15812)               |
+|      16 | [Docker Multi-stage Build Challenge](https://labex.io/labs/docker-docker-multi-stage-build-challenge-15810)                 | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-multi-stage-build-challenge-15810)         |
+|      17 | [Docker Network with Compose](https://labex.io/labs/docker-docker-network-with-compose-15003)                               | Beginner     | [Start Challenge](https://labex.io/labs/docker-docker-network-with-compose-15003)                |
+|      18 | [Docker Volume Management](https://labex.io/labs/docker-docker-volume-management-7769)                                      | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-volume-management-7769)                    |
+|      19 | [Robotic Assembly Line Volume Management](https://labex.io/labs/docker-robotic-assembly-line-volume-management-271510)      | Intermediate | [Start Challenge](https://labex.io/labs/docker-robotic-assembly-line-volume-management-271510)   |
+|      20 | [Unblock the Compose Worker](https://labex.io/labs/unblock-the-compose-worker-665951)                                       | Intermediate | [Start Challenge](https://labex.io/labs/unblock-the-compose-worker-665951)                       |
+|      21 | [Verifying Colony Docker Version](https://labex.io/labs/docker-verifying-colony-docker-version-271508)                      | Intermediate | [Start Challenge](https://labex.io/labs/docker-verifying-colony-docker-version-271508)           |
+|      22 | [Docker Universe Navigator](https://labex.io/labs/docker-docker-universe-navigator-271506)                                  | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-universe-navigator-271506)                 |
+|      23 | [Desert Docker Image Tagging Adventure](https://labex.io/labs/docker-desert-docker-image-tagging-adventure-271504)          | Intermediate | [Start Challenge](https://labex.io/labs/docker-desert-docker-image-tagging-adventure-271504)     |
+|      24 | [Docker Mastery in Gelasian Grasslands](https://labex.io/labs/docker-docker-mastery-in-gelasian-grasslands-271502)          | Beginner     | [Start Challenge](https://labex.io/labs/docker-docker-mastery-in-gelasian-grasslands-271502)     |
+|      25 | [Arctic Container Shutdown Mission](https://labex.io/labs/docker-arctic-container-shutdown-mission-271500)                  | Intermediate | [Start Challenge](https://labex.io/labs/docker-arctic-container-shutdown-mission-271500)         |
+|      26 | [Docker Container Magic Unleashed](https://labex.io/labs/docker-docker-container-magic-unleashed-271498)                    | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-container-magic-unleashed-271498)          |
+|      27 | [Docker Image Sky Search Adventure](https://labex.io/labs/docker-docker-image-sky-search-adventure-271496)                  | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-image-sky-search-adventure-271496)         |
+|      28 | [Dockerized Space Battles Deployment](https://labex.io/labs/docker-dockerized-space-battles-deployment-271494)              | Intermediate | [Start Challenge](https://labex.io/labs/docker-dockerized-space-battles-deployment-271494)       |
+|      29 | [Treasure Island Cleanup](https://labex.io/labs/docker-treasure-island-cleanup-271492)                                      | Intermediate | [Start Challenge](https://labex.io/labs/docker-treasure-island-cleanup-271492)                   |
+|      30 | [Underground Docker Container Management](https://labex.io/labs/docker-underground-docker-container-management-271490)      | Intermediate | [Start Challenge](https://labex.io/labs/docker-underground-docker-container-management-271490)   |
+|      31 | [Pharaohs Docker Container Restart](https://labex.io/labs/docker-pharaohs-docker-container-restart-271488)                  | Intermediate | [Start Challenge](https://labex.io/labs/docker-pharaohs-docker-container-restart-271488)         |
+|      32 | [Interstellar Container Deployment](https://labex.io/labs/docker-interstellar-container-deployment-271486)                  | Intermediate | [Start Challenge](https://labex.io/labs/docker-interstellar-container-deployment-271486)         |
+|      33 | [Repository Image Quest](https://labex.io/labs/docker-repository-image-quest-271484)                                        | Intermediate | [Start Challenge](https://labex.io/labs/docker-repository-image-quest-271484)                    |
+|      34 | [Interstellar Container Exploration](https://labex.io/labs/docker-interstellar-container-exploration-271482)                | Intermediate | [Start Challenge](https://labex.io/labs/docker-interstellar-container-exploration-271482)        |
+|      35 | [Dockers Mystical System-Wide Mastery](https://labex.io/labs/docker-dockers-mystical-system-wide-mastery-271464)            | Intermediate | [Start Challenge](https://labex.io/labs/docker-dockers-mystical-system-wide-mastery-271464)      |
+|      36 | [Inspect Jenkins and Create a Pipeline](https://labex.io/labs/jenkins-install-jenkins-and-create-pipeline-7771)             | Beginner     | [Start Challenge](https://labex.io/labs/jenkins-install-jenkins-and-create-pipeline-7771)        |
+|      37 | [Inspect Jenkins with Docker](https://labex.io/labs/jenkins-installing-jenkins-with-docker-challenge-29061)                 | Beginner     | [Start Challenge](https://labex.io/labs/jenkins-installing-jenkins-with-docker-challenge-29061)  |
+|      38 | [Sky City Container Troubleshoot](https://labex.io/labs/docker-sky-city-container-troubleshoot-271452)                      | Intermediate | [Start Challenge](https://labex.io/labs/docker-sky-city-container-troubleshoot-271452)           |
+|      39 | [Underground Dockerfile Image Quest](https://labex.io/labs/docker-underground-dockerfile-image-quest-271454)                | Intermediate | [Start Challenge](https://labex.io/labs/docker-underground-dockerfile-image-quest-271454)        |
+|      40 | [Docker Data Rescue Mission](https://labex.io/labs/docker-docker-data-rescue-mission-271456)                                | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-data-rescue-mission-271456)                |
+|      41 | [Secure Cargo Transport with Docker](https://labex.io/labs/docker-secure-cargo-transport-with-docker-271458)                | Intermediate | [Start Challenge](https://labex.io/labs/docker-secure-cargo-transport-with-docker-271458)        |
+|      42 | [Docker Arena Command Quest](https://labex.io/labs/docker-docker-arena-command-quest-271460)                                | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-arena-command-quest-271460)                |
+|      43 | [Superpower Image Organization in Docker](https://labex.io/labs/docker-superpower-image-organization-in-docker-271462)      | Intermediate | [Start Challenge](https://labex.io/labs/docker-superpower-image-organization-in-docker-271462)   |
+|      44 | [Docker Jungle Expedition](https://labex.io/labs/docker-docker-jungle-expedition-271480)                                    | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-jungle-expedition-271480)                  |
+|      45 | [Container Inspection Adventure](https://labex.io/labs/docker-container-inspection-adventure-271466)                        | Intermediate | [Start Challenge](https://labex.io/labs/docker-container-inspection-adventure-271466)            |
+|      46 | [Docker Registry Night Quest](https://labex.io/labs/docker-docker-registry-night-quest-271468)                              | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-registry-night-quest-271468)               |
+|      47 | [Secure Logout for Space Travelers](https://labex.io/labs/docker-secure-logout-for-space-travelers-271470)                  | Intermediate | [Start Challenge](https://labex.io/labs/docker-secure-logout-for-space-travelers-271470)         |
+|      48 | [Jungle Expedition: Uncovering Ancient Logs](https://labex.io/labs/docker-jungle-expedition-uncovering-ancient-logs-271472) | Intermediate | [Start Challenge](https://labex.io/labs/docker-jungle-expedition-uncovering-ancient-logs-271472) |
+|      49 | [Docker Container Identification](https://labex.io/labs/docker-docker-container-identification-271474)                      | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-container-identification-271474)           |
+|      50 | [Docker Networking Adventure](https://labex.io/labs/docker-docker-networking-adventure-271476)                              | Intermediate | [Start Challenge](https://labex.io/labs/docker-docker-networking-adventure-271476)               |
+
+[View More on LabEx](https://labex.io/learn/docker)
 
 ## About LabEx
 
